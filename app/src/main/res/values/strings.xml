@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RealTimeDb</string>
+    <string name="delete">Delete</string>
+    <string name="delete_msg">Delete Message</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
